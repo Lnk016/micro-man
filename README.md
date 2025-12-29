@@ -11,7 +11,3 @@ Adds a `man` command which displays manual pages in a new, read-only tab without
 
 - Micro >= 2.0.0
 - Unix system with `man`, `sh`, and `col`
-
-## Usage
-
-> man <command>
